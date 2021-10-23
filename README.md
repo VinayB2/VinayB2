@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @VinayB2
-- 👀 I’m interested in electronic's and microcontrollers
+- 👋 Hi, I’m Vinay
+- 👀 I’m interested in machine learning
 - 🌱 I’m currently learning Arduino
-- 💞️ I’m looking to collaborate on AIML
 - 📫 How to reach me? Follow me on instagram @vinay.b54
 
 <!---
