@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vinay
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning Arduino
+- 👀 Currently a python developer
 - 📫 How to reach me? Follow me on instagram @vinay.b54
 
 <!---
